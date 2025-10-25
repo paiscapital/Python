@@ -7,7 +7,7 @@ A collection of **Python optimization tips, learning notes, and projects** to im
 
 ## 📚 Topics
 - Notes 
-- Optimization Techniques (loops, comprehensions, vectorization)  
+- Optimization Techniques
 - Profiling & Performance   
 - Projects Examples  
 ---
