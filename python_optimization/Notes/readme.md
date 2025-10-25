@@ -2,7 +2,6 @@
 
 A concise collection of notes, techniques, and experiments for writing faster and more efficient Python code.
 
----
 
 ## 📘 Contents
 - Core optimization
